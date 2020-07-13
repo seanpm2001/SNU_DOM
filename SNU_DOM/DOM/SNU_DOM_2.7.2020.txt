@@ -1,0 +1,19 @@
+SNU_DOM
+
+Page setup (future goal)
+
+<!--Start comment!-->
+<HTML>
+header
+<HEAD>
+meta (meta tags, page color/background)
+PHP, JS, CSS, Ruby
+title
+::Nose (browser sniffing) Browser::
+</HEAD>
+<BODY>
+pagecontents
+</BODY>
+foot (footer)
+</HTML>
+<!--End comment!-->
